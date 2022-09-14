@@ -1,0 +1,31 @@
+@media screen and ( max-width: 851px) {
+    .nav-desktop{
+        display: none;
+    }
+    .nav-mobile{
+        display: flex;
+    }
+
+    /* header banner starts here */
+    .banner-content-container{
+        padding-top: 100px;
+    }
+    .banner-text-container{
+        width: 100%;
+    }
+    .about-us-container{
+        justify-content: center;
+
+    }
+    .about-us-cards-img{
+        min-width: 350px;
+        height: 285px;
+
+    }
+    .about-us-card-text {
+        width: 90%;
+        margin: 20px 0;
+    }
+}
+
+    /* header banner ends here */
