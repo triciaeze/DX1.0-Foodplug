@@ -214,7 +214,7 @@ header{
 }
 
 .header-counter{
-    border: 3px solid white;
+    /* border: 3px solid white; */
     /* height: 100px; */
     width: 180px;
     color: var(--white-color);
